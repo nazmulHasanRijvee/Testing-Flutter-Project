@@ -10,6 +10,8 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
 
+  bool isSuccess = false;
+
   @override
   Widget build(BuildContext context) {
     
