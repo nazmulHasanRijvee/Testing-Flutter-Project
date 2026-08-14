@@ -11,7 +11,8 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
 
   int isSuccess = 0;
-
+  String name = 'This is Stranger';
+  
   @override
   Widget build(BuildContext context) {
     
